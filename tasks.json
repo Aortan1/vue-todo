@@ -1,0 +1,7 @@
+
+{"tasks": [
+{"id": 1, "name": "Gotta doooo!! this task first", "done": false, "status": "new"},
+{"id": 2, "name": "buy some cat food", "done": false, "status": "new"},
+{"id": 3, "name": "look out of the window", "done": false, "status": "new"},
+{"id": 4, "name": "install fish tank in living room", "done": false, "status": "new"}
+]}
